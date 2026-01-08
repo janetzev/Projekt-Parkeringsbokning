@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.10">
   <diagram name="Sida-1" id="u-FFRZpVMX9Ea_W5s6gO">
-    <mxGraphModel dx="1106" dy="693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;" value="START" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=light-dark(#93B2C4,#374151);fontColor=light-dark(#121212,#FFFFFF);strokeColor=light-dark(#121212,#FFFFFF);fontStyle=1;fontSize=14;" value="START" vertex="1">
           <mxGeometry height="80" width="120" x="40" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Är användare inloggad?" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#EE8F2F;fontColor=light-dark(#EDEDED,#000000);gradientColor=none;fontStyle=1" value="Är användare inloggad?" vertex="1">
           <mxGeometry height="120" width="120" x="40" y="200" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-6" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-1" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-4" value="">
@@ -16,7 +16,7 @@
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Välj parkeringsplats" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);fontColor=light-dark(#000000,#FFFFFF);" value="Välj parkeringsplats" vertex="1">
           <mxGeometry height="60" width="120" x="210" y="230" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-8" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-4" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-7" value="">
@@ -25,12 +25,12 @@
             <mxPoint x="450" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-9" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FF99);" value="JA" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-9" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FFCC);fontStyle=3" value="JA" vertex="1">
           <mxGeometry relative="1" x="-0.2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Logga in" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Logga in" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="360" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-11" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-4" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-10" value="">
@@ -39,12 +39,12 @@
             <mxPoint x="450" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-12" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99CC);" value="NEJ" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-12" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99FF);fontStyle=3" value="NEJ" vertex="1">
           <mxGeometry relative="1" x="-0.075" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Välj datum (tid)" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Välj datum (tid)" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="230" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-14" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-7" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-13" value="">
@@ -53,7 +53,7 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Skicka bokningsförfrågan" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Skicka bokningsförfrågan" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="330" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-16" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-13" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-15" value="">
@@ -62,7 +62,7 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Är platsen tillgänglig?" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#EE8F2F;fontColor=light-dark(#EDEDED,#000000);fontStyle=1" value="Är platsen tillgänglig?" vertex="1">
           <mxGeometry height="100" width="100" x="380" y="430" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-18" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-15" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-17" value="">
@@ -71,7 +71,7 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Visa &quot;Upptagen&quot;" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Visa &quot;Upptagen&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="570" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-20" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-17" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-19" value="">
@@ -80,13 +80,13 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-21" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99CC);" value="NEJ" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-21" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99FF);fontStyle=3" value="NEJ" vertex="1">
           <mxGeometry relative="1" x="-0.25" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Precio Parking Flow Chart" vertex="1">
-          <mxGeometry height="60" width="170" x="370" as="geometry" />
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#AEB7C5,#374151);fontStyle=1;fontSize=20;fontColor=#EE8F2F;" value="Precio Parking Flow Chart" vertex="1">
+          <mxGeometry height="75" width="279" x="370" y="34" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-23" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-19" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="AE_gAZAO1Gp8sQwAcZAa-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -103,15 +103,15 @@
             <mxPoint x="530" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-26" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FF99);" value="JA" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-26" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FFCC);fontStyle=3" value="JA" vertex="1">
           <mxGeometry relative="1" x="-0.15" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Krävs extern bokning?" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#EE8F2F;fontColor=light-dark(#EDEDED,#000000);fontStyle=1" value="Krävs extern bokning?" vertex="1">
           <mxGeometry height="100" width="100" x="530" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kör Playwright" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Kör Playwright" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="330" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-29" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-27" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-28" value="">
@@ -120,13 +120,13 @@
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-30" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FF99);" value="JA" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-30" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FFCC);fontStyle=3" value="JA" vertex="1">
           <mxGeometry relative="1" x="-0.04" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Skapa intern bokning" vertex="1">
-          <mxGeometry height="60" width="137" x="690" y="450" as="geometry" />
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Skapa intern bokning" vertex="1">
+          <mxGeometry height="63" width="142" x="679" y="448.5" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-32" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-27" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-31" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -134,12 +134,12 @@
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-33" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99CC);" value="NEJ" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-33" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99FF);fontStyle=3" value="NEJ" vertex="1">
           <mxGeometry relative="1" x="-0.25" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Lyckades bokningen?" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#EE8F2F;fontColor=light-dark(#EDEDED,#000000);fontStyle=1" value="Lyckades bokningen?" vertex="1">
           <mxGeometry height="100" width="100" x="700" y="310" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-35" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-28" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-34" value="">
@@ -148,13 +148,13 @@
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-36" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-31" style="endArrow=classic;html=1;rounded=0;exitX=0.438;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" target="AE_gAZAO1Gp8sQwAcZAa-34" value="">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-36" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-31" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-34" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spara bokning (booked)" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);gradientColor=none;" value="Spara bokning (booked)" vertex="1">
           <mxGeometry height="60" width="120" x="690" y="210" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-38" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-34" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-37" value="">
@@ -163,12 +163,12 @@
             <mxPoint x="410" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-39" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FF99);" value="JA" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-39" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FFCC);fontStyle=3" value="JA" vertex="1">
           <mxGeometry relative="1" x="-0.2667" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spara bokning (failed)" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Spara bokning (failed)" vertex="1">
           <mxGeometry height="60" width="140" x="860" y="330" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-41" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-34" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-40" value="">
@@ -177,7 +177,7 @@
             <mxPoint x="410" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-42" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99CC);" value="NEJ" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-42" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FF99FF);fontStyle=3" value="NEJ" vertex="1">
           <mxGeometry relative="1" x="-0.16" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -185,14 +185,14 @@
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-43" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-40" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="650" />
+              <mxPoint x="930" y="655" />
               <mxPoint x="270" y="650" />
             </Array>
             <mxPoint x="460" y="420" as="sourcePoint" />
             <mxPoint x="510" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Visa bekräftelse" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);fontStyle=0" value="Visa bekräftelse" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="210" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-45" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-37" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-44" value="">
@@ -201,7 +201,7 @@
             <mxPoint x="510" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;" value="SLUT" vertex="1">
+        <mxCell id="AE_gAZAO1Gp8sQwAcZAa-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=light-dark(#AEB7C5,#374151);fontStyle=1;fontSize=14;" value="SLUT" vertex="1">
           <mxGeometry height="80" width="120" x="860" y="80" as="geometry" />
         </mxCell>
         <mxCell id="AE_gAZAO1Gp8sQwAcZAa-47" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-44" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-46" value="">
@@ -219,12 +219,12 @@
             <mxPoint x="510" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR2EHdEp3SyrBSfPe3nf-2" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FF99);" value="JA" vertex="1">
+        <mxCell id="yR2EHdEp3SyrBSfPe3nf-2" connectable="0" parent="AE_gAZAO1Gp8sQwAcZAa-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#99FFCC);fontStyle=3" value="JA" vertex="1">
           <mxGeometry relative="1" x="-0.7484" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR2EHdEp3SyrBSfPe3nf-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Gick inlogg bra?" vertex="1">
+        <mxCell id="yR2EHdEp3SyrBSfPe3nf-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#EE8F2F;fontColor=light-dark(#EDEDED,#000000);fontStyle=1" value="Är användare inloggad?" vertex="1">
           <mxGeometry height="120" width="120" x="40" y="460" as="geometry" />
         </mxCell>
         <mxCell id="yR2EHdEp3SyrBSfPe3nf-3" edge="1" parent="1" source="AE_gAZAO1Gp8sQwAcZAa-10" style="endArrow=classic;html=1;rounded=0;" target="yR2EHdEp3SyrBSfPe3nf-1" value="">
@@ -233,13 +233,18 @@
             <mxPoint x="600" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR2EHdEp3SyrBSfPe3nf-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Felmeddelande" vertex="1">
+        <mxCell id="yR2EHdEp3SyrBSfPe3nf-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#93B2C4,#2E5266);" value="Felmeddelande" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="620" as="geometry" />
         </mxCell>
         <mxCell id="yR2EHdEp3SyrBSfPe3nf-5" edge="1" parent="1" source="yR2EHdEp3SyrBSfPe3nf-1" style="endArrow=classic;html=1;rounded=0;" target="yR2EHdEp3SyrBSfPe3nf-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="550" y="420" as="sourcePoint" />
             <mxPoint x="600" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7gpFrUQpo3wIFaGlG67M-2" connectable="0" parent="yR2EHdEp3SyrBSfPe3nf-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF99FF;fontStyle=3" value="NEJ" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="-1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yR2EHdEp3SyrBSfPe3nf-6" edge="1" parent="1" source="yR2EHdEp3SyrBSfPe3nf-4" style="endArrow=classic;html=1;rounded=0;" target="AE_gAZAO1Gp8sQwAcZAa-10" value="">
